@@ -9,11 +9,11 @@
 - **[Check out my GitHub Repositories](https://github.com/SelimHorri?tab=repositories)**
 - **[Have you checked out my LinkedIn?!](https://www.linkedin.com/in/selim-horri-98b363158/)**
 - **[Hang out with me on Facebook](https://www.facebook.com/SelimHorri/)**
-- **[My website / Business card](https://atkuzmanov.wordpress.com/)**
-- **[LinkTree](https://linktr.ee/atkuzmanov)**
-- **[StackOverflow](https://stackoverflow.com/users/8924970/selim-horri)**
 - **[Instagram](https://www.instagram.com/selimhorri/)**
+- **[StackOverflow](https://stackoverflow.com/users/8924970/selim-horri)**
 - **[Docker Hub](https://hub.docker.com/u/SelimHorri/)**
+<!--- **[My website / Business card](https://atkuzmanov.wordpress.com/)**-->
+<!--- **[LinkTree](https://linktr.ee/atkuzmanov)**-->
 <!-- - **[Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://sites.google.com/view/atkuzmanov/home) ☕** -->
 <!-- - [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V22AJ80) -->
 <!-- - **[Hackerrank](https://www.hackerrank.com/atkuzmanov?hr_r=1)** -->
@@ -26,11 +26,12 @@
 
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
-|[![SelimHorri's github stats](https://github-readme-stats.vercel.app/api?username=SelimHorri&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimHorri&hide=Rich%20Text%20Format,scheme,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
+|[![SelimHorri's github stats](https://github-readme-stats.vercel.app/api?username=SelimHorri&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimHorri&hide=Rich%20Text%20Format,scheme,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=SelimHorri)||
 |***PINNED REPOS***|***PINNED REPOS***|
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=Project-Tracking-System)](https://github.com/SelimHorri/Project-Tracking-System)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=HR-Management-System)](https://github.com/SelimHorri/HR-Management-System/tree/security)|
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=JHipster-Architectural-Comparison)](https://github.com/SelimHorri/JHipster-Architectural-Comparison)||[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=employees-management)](https://github.com/SelimHorri/employees-management)||[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=Angular-frontend-app)](https://github.com/SelimHorri/Angular-frontend-app)||[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=SpringBoot-Angular-confinement)](https://github.com/SelimHorri/SpringBoot-Angular-confinement)
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=JHipster-Architectural-Comparison)](https://github.com/SelimHorri/JHipster-Architectural-Comparison)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=employees-management)](https://github.com/SelimHorri/employees-management)|
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=Angular-frontend-app)](https://github.com/SelimHorri/Angular-frontend-app)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=SpringBoot-Angular-confinement)](https://github.com/SelimHorri/SpringBoot-Angular-confinement)
 
 <table border="0" cellspacing="0" cellpadding="0" allign="center">
   <tbody>
