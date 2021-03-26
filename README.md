@@ -11,7 +11,7 @@
 - **[Hang out with me on Facebook](https://www.facebook.com/SelimHorri/)**
 - **[Instagram](https://www.instagram.com/selimhorri/)**
 - **[StackOverflow](https://stackoverflow.com/users/8924970/selim-horri)**
-- **[Docker Hub](https://hub.docker.com/u/SelimHorri/)**
+- **[Docker Hub](https://hub.docker.com/u/selimhorri)**
 <!--- **[My website / Business card](https://atkuzmanov.wordpress.com/)**-->
 <!--- **[LinkTree](https://linktr.ee/atkuzmanov)**-->
 <!-- - **[Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://sites.google.com/view/atkuzmanov/home) ☕** -->
