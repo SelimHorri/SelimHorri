@@ -26,7 +26,7 @@
 
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
-|[![SelimHorri's github stats](https://github-readme-stats.vercel.app/api?username=SelimHorri&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimHorri&hide=Rich%20Text%20Format,scheme,css,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|
+|[![SelimHorri's github stats](https://github-readme-stats.vercel.app/api?username=SelimHorri&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimHorri&hide=Rich%20Text%20Format,scheme,css,sass,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=SelimHorri)||
 |***PINNED REPOS***|***PINNED REPOS***|
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=project-tracking-system)](https://github.com/SelimHorri/project-tracking-system)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=quarkus-plays-with-spring-h2-panache)](https://github.com/SelimHorri/quarkus-plays-with-spring-h2-panache)|
