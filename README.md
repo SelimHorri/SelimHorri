@@ -5,13 +5,14 @@
     <tr style="border: none;">
       <td style="border: none;">
 
-- **[Check out my GitHub](https://github.com/SelimHorri)**
-- **[Check out my GitHub Repositories](https://github.com/SelimHorri?tab=repositories)**
-- **[Have you checked out my LinkedIn?!](https://www.linkedin.com/in/selim-horri-98b363158/)**
-- **[Hang out with me on Facebook](https://www.facebook.com/SelimHorri/)**
+- **[GitHub](https://github.com/SelimHorri)**
+- **[GitHub Repositories](https://github.com/SelimHorri?tab=repositories)**
+- **[Azure DevOps](https://slimhorri.visualstudio.com/GitHub%20Opensource%20Projects)**
+- **[Docker Hub](https://hub.docker.com/u/selimhorri)**
+- **[LinkedIn](https://www.linkedin.com/in/selim-horri-98b363158/)**
+- **[Facebook](https://www.facebook.com/SelimHorri/)**
 - **[Instagram](https://www.instagram.com/selimhorri/)**
 - **[StackOverflow](https://stackoverflow.com/users/8924970/selim-horri)**
-- **[Docker Hub](https://hub.docker.com/u/selimhorri)**
 <!--- **[My website / Business card](https://atkuzmanov.wordpress.com/)**-->
 <!--- **[LinkTree](https://linktr.ee/atkuzmanov)**-->
 <!-- - **[Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://sites.google.com/view/atkuzmanov/home) ☕** -->
