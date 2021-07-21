@@ -7,7 +7,7 @@
 
 - **[GitHub](https://github.com/SelimHorri)**
 - **[GitHub Repositories](https://github.com/SelimHorri?tab=repositories)**
-- **[Azure DevOps](https://slimhorri.visualstudio.com/GitHub%20Opensource%20Projects)**
+- **[Azure DevOps](https://dev.azure.com/SelimHorri)**
 - **[Docker Hub](https://hub.docker.com/u/selimhorri)**
 - **[LinkedIn](https://www.linkedin.com/in/selim-horri-98b363158/)**
 - **[Facebook](https://www.facebook.com/SelimHorri/)**
