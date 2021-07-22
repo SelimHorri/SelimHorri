@@ -81,7 +81,7 @@
       <td align="center">
         <a href="">
           <a href="https://www.mysql.com/">
-            <img src="https://upload.wikimedia.org/wikipedia/en/e/ee/MySQL_Logo.png" alt="MySQL SQL" width="70" height="70"/>
+            <img src="https://i1.wp.com/fileserialkey.com/wp-content/uploads/2019/07/2-2.png?fit=300%2C300&ssl=1" alt="MySQL SQL" width="70" height="70"/>
           </a>
         </a>
       </td>
