@@ -30,7 +30,7 @@
 |[![SelimHorri's github stats](https://github-readme-stats.vercel.app/api?username=SelimHorri&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimHorri&hide=Rich%20Text%20Format,scheme,xml,shell,yaml,haml,php,json,css,sass,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=SelimHorri)||
 |***PINNED REPOS***|***PINNED REPOS***|
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=project-tracking-system-backend-app)](https://github.com/SelimHorri/project-tracking-system-backend-app)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=quarkus-plays-with-spring-h2-panache)](https://github.com/SelimHorri/quarkus-plays-with-spring-h2-panache)|
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=ecommerce-microservice-backend-app)](https://github.com/SelimHorri/ecommerce-microservice-backend-app)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=project-tracking-system-backend-app)](https://github.com/SelimHorri/project-tracking-system-backend-app)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=quarkus-plays-with-spring-h2-panache)](https://github.com/SelimHorri/quarkus-plays-with-spring-h2-panache)|
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=jhipster-architectural-comparison)](https://github.com/SelimHorri/jhipster-architectural-comparison)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=employees-simple-management)](https://github.com/SelimHorri/employees-simple-management)|
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=angular-frontend-app)](https://github.com/SelimHorri/angular-frontend-app)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=spring-boot-angular-confinement)](https://github.com/SelimHorri/spring-boot-angular-confinement)
 
@@ -68,7 +68,7 @@
       </td>
       <td align="center">
         <a href="https://www.oracle.com/uk/database/technologies/">
-          <img src="https://pbs.twimg.com/profile_images/1171452654112755712/MW0_-kQQ.jpg" alt="Oracle Database" width="70" height="70"/>
+          <img src="https://pbs.twimg.com/profile_images/1448975437246255105/cc989Pmx_400x400.jpg" alt="Oracle Database" width="70" height="70"/>
         </a>
       </td>
     </tr>
@@ -87,7 +87,7 @@
       </td>
       <td align="center">
         <a href="https://www.mongodb.com/">
-          <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="mongoDB" width="70" height="70"/>
+          <img src="https://www.jorgehernandezramirez.com/wp-content/uploads/2017/03/mongodb.png" alt="mongoDB" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
@@ -273,7 +273,7 @@
   <https://upload.wikimedia.org/wikipedia/en/e/ee/MySQL_Logo.png>
 
   <https://www.mongodb.com/>
-  <https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg>
+  <https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png>
 
   <https://nodejs.org/en/>
   <https://nodejs.org/static/images/logo.svg>
